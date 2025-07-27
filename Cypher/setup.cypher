@@ -1,6 +1,6 @@
 // Create Products
-CREATE (p1:Product {id: 1, name: "Laptop Pro", category: "Laptop"});
-CREATE (p2:Product {id: 2, name: "Smartphone X", category: "Phone"});
+CREATE (p1:Product {id: 1, name: "Macbook Air", category: "Laptop"});
+CREATE (p2:Product {id: 2, name: "Smartphone", category: "Phone"});
 CREATE (p3:Product {id: 3, name: "Wireless Earbuds", category: "Audio"});
 CREATE (p4:Product {id: 4, name: "Gaming Laptop", category: "Laptop"});
 CREATE (p5:Product {id: 5, name: "Smartwatch", category: "Wearable"});
